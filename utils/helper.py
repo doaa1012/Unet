@@ -2,7 +2,7 @@ import logging
 import torch
 import torch.nn as nn
 from dataloader import full_path_loader, CDDloader, full_test_loader
-from models.FC_EF_2018 import UNet
+from models.FC_EF import UNet
 from losses import DiceLoss, DiceBCELoss, IoULoss, FocalLoss
 logging.basicConfig(level=logging.INFO)
         

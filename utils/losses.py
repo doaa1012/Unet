@@ -1,11 +1,3 @@
-"""
-
-Loss Function Library - PyTorch
-reference: https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-pytorch
-testing this losses at: https://colab.research.google.com/drive/1KEUAQM_Fc_POKUZ5sX76_4BXMX7lh_mE?authuser=3#scrollTo=xoC-SS1Tj5Qa
-
-"""
-
 import numpy
 import torch
 import torch.nn as nn
