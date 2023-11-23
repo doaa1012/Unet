@@ -1,2 +1,2 @@
 # Change-Detection
-This model for change detection using CNN and Unet model.
+This model for change detection using Unet model.
